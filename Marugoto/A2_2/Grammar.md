@@ -47,9 +47,11 @@ left 2 columns are non past (ひかこ), right 2 columns are past (かこ)
 
 ## Chapter 8
 
+
+
 ## Chapter 9
 
-### ?
+### Continuing action
 > V-て　いました
 休みは　メキシコに　帰っていました。
 continuing action/Result of an action in the past

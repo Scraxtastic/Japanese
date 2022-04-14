@@ -44,7 +44,7 @@ This file includes a Kanji list of the Marugoto A2_2 Book.
 | 注文   | ちゅうもん | order / request |
 | 洋食   | ようしょく | western food    |
 | 和食   | わしょく   | japanese food   |
-| 旧肉   | きゅうにく | beef            |
+| 牛肉   | ぎゅうにく | beef            |
 | 地方   | ちほう     | region          |
 | 有名   | ゆうめい   | famous          |
 | 生     | なま       | raw             |
